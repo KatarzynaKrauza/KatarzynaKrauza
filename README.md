@@ -1,4 +1,3 @@
-Katarzyna Krauza
 
 
 Data Analyst
