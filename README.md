@@ -1,10 +1,10 @@
 # **KATARZYNA KRAUZA**
 
-**Data Analyst**
+# **Data Analyst**
 
 I am comfortable working with numbers. I enjoy and feel confident in creating data analysis strategies. Everything I have learned and created can be found in my repositories.
 
-🧰 Languages and Tools
+**🧰 Languages and Tools**
 
 ![icons8-excel-96](https://github.com/user-attachments/assets/d963b5b0-1ec5-4f91-bc33-6d2122c4637d)  Excel
 
