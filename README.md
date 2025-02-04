@@ -2,7 +2,7 @@
 
 # **Data Analyst**
 
-I am comfortable working with numbers. I enjoy and feel confident in creating data analysis strategies. 
+I am comfortable working with numbers.  
 Everything I have learned and created can be found in my repositories.
 
 **🧰 Languages and Tools🛠️**
