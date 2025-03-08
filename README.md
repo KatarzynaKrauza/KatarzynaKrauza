@@ -15,7 +15,7 @@ I am comfortable working with numbers. I have been working in finance for over f
 
 ## **🧠 My Projects**
 
-💡 Analiza wskaźników marketingowych [SQL] https://github.com/KatarzynaKrauza/SQL.git
+💡 Marketing metrics analysis [SQL] https://github.com/KatarzynaKrauza/SQL.git
 
 💡 Revenue metrics dashboard [SQL/Tableau] https://github.com/KatarzynaKrauza/Project-Revenue-metrics.git
 
