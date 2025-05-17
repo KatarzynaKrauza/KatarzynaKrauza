@@ -1,7 +1,7 @@
 # **KATARZYNA KRAUZA**
 
 # 📊**Data Analyst**📊
-I am comfortable working with numbers. I have been working in finance for over five years and actively investing in various assets for the past three. Numbers are not just part of my job—they are my passion. I love analysing data, and it excites me both professionally and personally. I enjoy taking on new challenges and always commit fully to achieving the best possible results. Accuracy and quality are my priorities—half-measures are not an option for me.
+I am comfortable working with numbers. I have been working in finance for over five years and actively investing in various assets for the past three. I enjoy taking on new challenges — both at work and outside of it. I'm developing my skills in data analysis within the IT field, while participating in running events as a way to build character and discipline—qualities that directly influence my approach to work. 
 
 ---
 
