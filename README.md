@@ -3,7 +3,7 @@
 # 📊**Analityk Danych**📊
 **Dobrze odnajduję się w pracy z liczbami**
 
-Swobodnie pracuję z liczbami i danymi – to nie tylko moja codzienna praca, ale także obszar, w którym czuję się najbardziej kompetentnie i który daje mi realną satysfakcję.
+Swobodnie pracuję z liczbami i danymi – to nie tylko moja codzienna praca, ale także obszar, w którym czuję się najbardziej kompetenta i który daje mi realną satysfakcję.
 
 
 ---
