@@ -18,7 +18,7 @@ Swobodnie pracuję z liczbami i danymi – to nie tylko moja codzienna praca, al
 
 ## **🧠 Moje projekty**
 
-💡 Marketing metrics analysis [SQL] https://github.com/KatarzynaKrauza/SQL.git
+💡 Analiza wskaźników marketingowych [SQL] https://github.com/KatarzynaKrauza/SQL.git
 
 💡 Revenue metrics dashboard [SQL/Tableau] https://github.com/KatarzynaKrauza/Project-Revenue-metrics.git
 
