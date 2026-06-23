@@ -22,7 +22,7 @@ Swobodnie pracuję z liczbami i danymi – to nie tylko moja codzienna praca, al
 
 💡 Revenue metrics dashboard [SQL/Tableau] https://github.com/KatarzynaKrauza/Project-Revenue-metrics.git
 
-💡 Test A/B Prezentacja produktu a wspólczynnik konwersji [Python](https://github.com/KatarzynaKrauza/Test-A-B---Wp-yw-zdj-cia-produkt-vs-modelka-na-konwersj-.git)
+💡 Test A/B Prezentacja produktu a wspólczynnik konwersji [Python] https://github.com/KatarzynaKrauza/Test-A-B---Wp-yw-zdj-cia-produkt-vs-modelka-na-konwersj-.git
 
 ---
 
