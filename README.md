@@ -20,7 +20,7 @@ Swobodnie pracuję z liczbami i danymi – to nie tylko moja codzienna praca, al
 
 💡 Analiza wskaźników marketingowych [SQL] https://github.com/KatarzynaKrauza/SQL.git
 
-💡 Revenue metrics dashboard [SQL/Tableau] https://github.com/KatarzynaKrauza/Project-Revenue-metrics.git
+💡 Analiza przychodów ze sprzedaży gier wideo (III–XII 2022) [SQL/Tableau] https://github.com/KatarzynaKrauza/Project-Revenue-metrics.git
 
 💡 Test A/B Prezentacja produktu a współczynnik konwersji [Python] https://github.com/KatarzynaKrauza/Test-AB.git)
 
